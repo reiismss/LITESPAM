@@ -1,0 +1,1 @@
+print("LITESPAM berjalan!")
